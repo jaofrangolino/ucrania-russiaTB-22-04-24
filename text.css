@@ -1,0 +1,30 @@
+body
+{
+    background-color: rgb(107, 107, 219);
+}
+
+.list2
+{
+    font-size: 50px ;
+    margin: auto;
+    text-align: center;
+}
+article, header
+{
+    color: ghostwhite;
+}
+img
+{
+    border-radius: 30px;
+    border: 1px solid transparent;
+}
+
+section
+{
+    display: flex;
+}
+h5
+{
+    font-size: large;
+    position: fixed;
+}
