@@ -47,3 +47,7 @@ li
 {
     text-decoration: rgb(192, 196, 0) underline;
 }
+.band
+{
+    display: flex;
+}
